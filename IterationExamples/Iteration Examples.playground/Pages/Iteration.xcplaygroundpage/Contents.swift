@@ -14,7 +14,7 @@ import PlaygroundSupport
  For example, here how to use this type of loop to create a ladder image.
  */
 // Create canvas
-let canvas = Canvas(width: 360, height:  100)
+let canvas = Canvas(width: 360, height: 100)
 
 //line width
 canvas.defaultLineWidth = 5
